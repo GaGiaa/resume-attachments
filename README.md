@@ -22,6 +22,14 @@
 
 [查看四张实物照片与结构说明](projects/nuedc-2026/README.md) · [项目代码](https://github.com/GaGiaa/2026_electronics_design_contest)
 
+### 个人项目｜四轮移动平台结构设计与装配
+
+为提升 SolidWorks 零件设计与装配能力，独立完成四轮移动平台的零件建模、设备布局与整机装配建模。模型包含底盘、分层支撑、设备安装结构及前部机构，结合电机、车轮、板卡与紧固件的安装关系完成整机布局。
+
+<a href="projects/solidworks-platform/README.md"><img src="projects/solidworks-platform/images/Snipaste_2026-11-02_09-51-18.png" alt="个人项目 SolidWorks 整机装配总览" width="700"></a>
+
+[查看三张装配截图与结构说明](projects/solidworks-platform/README.md)
+
 ## 本科在读学籍证明
 
 广东工业大学｜机器人工程｜普通全日制本科｜在籍（注册学籍）。

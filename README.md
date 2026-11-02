@@ -18,11 +18,11 @@
 
 ## 竞赛荣誉
 
-| 赛事 | 团队成绩 | 证明 |
+| 赛事 | 团队成绩 | 证&#8288;明 |
 |---|---|---|
-| ROBOCON 2026 武林探秘 | **全国一等奖** | [查看](evidence/README.md#robocon-2026) |
-| ROBOCON 2025 飞身上篮 | **全国二等奖** | [查看](evidence/README.md#robocon-2025) |
-| 2026 年全国大学生电子设计竞赛 | **广东赛区省二等奖** | [查看](evidence/README.md#nuedc-2026) |
+| ROBOCON 2026 武林探秘 | **全&#8288;国&#8288;一&#8288;等&#8288;奖** | [查&#8288;看](evidence/README.md#robocon-2026) |
+| ROBOCON 2025 飞身上篮 | **全&#8288;国&#8288;二&#8288;等&#8288;奖** | [查&#8288;看](evidence/README.md#robocon-2025) |
+| 2026 年全国大学生电子设计竞赛 | **广东赛区<br>省二等奖** | [查&#8288;看](evidence/README.md#nuedc-2026) |
 
 <a id="projects"></a>
 

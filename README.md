@@ -36,7 +36,7 @@
 
 <a href="projects/robocon-2026/README.md"><img src="projects/robocon-2026/images/mmexport6912a338036a4c814a39431d95e1b26b_1784345.jpeg" alt="ROBOCON 2026 比赛现场纸箱夹取作业" width="620"></a>
 
-[实物照片与调试说明](projects/robocon-2026/README.md) · [团队代码仓库](https://github.com/XieFField/RC10_LIB-FrameWork)
+[实物照片与调试说明](projects/robocon-2026/README.md) · [实车演示 · 6 段](projects/robocon-2026/videos/README.md) · [团队代码仓库](https://github.com/XieFField/RC10_LIB-FrameWork)
 
 ### 电子设计竞赛｜车载平衡滚球运动控制系统
 

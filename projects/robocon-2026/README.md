@@ -1,10 +1,24 @@
 # ROBOCON 2026 武林探秘
 
-本组照片展示团队两台机器人在不同开发阶段及比赛现场的实物形态，涵盖底盘与机构迭代、电控布置和场地调试。
+本页收录团队两台机器人在不同开发阶段的运行视频与实物照片，以及比赛现场照片，展示底盘与机构迭代、电控布置和场地调试。
 
 ## 个人工作
 
 本人负责底盘运动控制、电机接口开发及实车调试，并参与整车联调。
+
+<a id="demo"></a>
+
+## 实车演示
+
+### 底盘场地运动演示 · 40 秒
+
+展示机器人在场地内的移动与车体朝向变化。
+
+https://github.com/user-attachments/assets/c29ad375-e382-44f6-b213-b7db2f5d1c83
+
+[查看全部 6 段视频](videos/README.md) · [高框架机器人场地运行](videos/README.md#frame-robot-field-run) · [场地台阶相关测试](videos/README.md#field-step-test)
+
+<a id="photos"></a>
 
 ## 项目图片
 
@@ -55,6 +69,14 @@
 <a href="images/mmexport173eadf5e5a0c88b11b9541102515900_1784345.jpeg"><img src="images/mmexport173eadf5e5a0c88b11b9541102515900_1784345.jpeg" alt="比赛现场：任务执行场景" width="760"></a>
 
 [查看原图](images/mmexport173eadf5e5a0c88b11b9541102515900_1784345.jpeg)
+
+<a id="more-tests"></a>
+
+## 更多开发与调试记录
+
+补充收录高框架机器人短段运行，以及开发阶段的全景、近景场地运行视频。
+
+[查看另外 3 段调试记录](videos/README.md#more-tests)
 
 ## 相关链接
 

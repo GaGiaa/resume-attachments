@@ -52,6 +52,12 @@
 
 ## 拓展资料
 
+### ROBOCON 2025 校内选拔赛｜机器人电控
+
+负责其中一台机器人的外设驱动、电机控制与整车电控调试。
+
+[实物照片与个人工作](projects/robocon-2025-selection/README.md) · [实车演示与开发记录](projects/robocon-2025-selection/videos/README.md)
+
 ### 个人项目｜双轮自平衡小车
 
 自行设计、焊接控制 PCB，并完成板卡与整车集成。

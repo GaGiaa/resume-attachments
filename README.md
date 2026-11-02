@@ -22,6 +22,14 @@
 
 [查看四张实物照片与结构说明](projects/nuedc-2026/README.md) · [项目代码](https://github.com/GaGiaa/2026_electronics_design_contest)
 
+### 个人项目｜双轮自平衡小车
+
+基于双轮直流减速电机制作自平衡小车，个人完成控制 PCB 的原理图设计、布局布线、焊接及上电调试，并将板卡集成到整车中使用。
+
+<a href="projects/balance-car/README.md"><img src="projects/balance-car/images/IMG_20250723_210258.jpg" alt="个人项目 双轮自平衡小车整车总览" width="700"></a>
+
+[查看三张实物照片与控制板说明](projects/balance-car/README.md)
+
 ### 个人项目｜四轮移动平台结构设计与装配
 
 为提升 SolidWorks 零件设计与装配能力，独立完成四轮移动平台的零件建模、设备布局与整机装配建模。模型包含底盘、分层支撑、设备安装结构及前部机构，结合电机、车轮、板卡与紧固件的安装关系完成整机布局。

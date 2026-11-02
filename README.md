@@ -4,6 +4,14 @@
 
 ## 项目实物
 
+### ROBOCON 2026｜整机迭代与实车调试
+
+本组照片展示团队两台机器人在不同开发阶段及比赛现场的实物形态，涵盖底盘与机构迭代、电控布置和场地调试。本人负责底盘运动控制、电机接口开发及实车调试，并参与整车联调。
+
+<a href="projects/robocon-2026/README.md"><img src="projects/robocon-2026/images/mmexport6912a338036a4c814a39431d95e1b26b_1784345.jpeg" alt="ROBOCON 2026 比赛现场纸箱夹取作业" width="700"></a>
+
+[查看六张实物照片与调试说明](projects/robocon-2026/README.md) · [团队代码仓库](https://github.com/XieFField/RC10_LIB-FrameWork)
+
 ### 电子设计竞赛｜车载平衡滚球运动控制系统
 
 两轮差速小车搭载单自由度滚球平衡机构，完成循迹行驶与钢球位置控制。

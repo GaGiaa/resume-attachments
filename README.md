@@ -80,4 +80,3 @@
 
 - [ROBOCON 2026 武林探秘（团队代码仓库）](https://github.com/XieFField/RC10_LIB-FrameWork)
 - [2026 年全国大学生电子设计竞赛](https://github.com/GaGiaa/2026_electronics_design_contest)
-- [ROBOCON 2025 飞身上篮（团队代码仓库）](https://github.com/XieFField/2025RC-GDUT2-R1)
